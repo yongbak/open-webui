@@ -310,3 +310,7 @@ dist
 cypress/videos
 cypress/screenshots
 .vscode/settings.json
+
+# my ignore
+/backend/open_webui/frontend
+/static/assets/emojis
